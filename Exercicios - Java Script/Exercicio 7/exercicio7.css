@@ -1,0 +1,14 @@
+#container {
+    border: 5px solid magenta;
+    text-align: center;
+    margin: 20px 600px 20px
+
+}
+
+#botao {
+    margin: 8px auto;
+}
+
+#n1 {
+    margin: 4px auto;
+}
